@@ -1,0 +1,82 @@
+/* This is my CSS file */
+
+
+/* this is blue #00a6ff*/
+body{
+	background-image: url("../Images/Background.jpg") ;
+	Background-repeat: no-repeat;
+	background-size: cover ;
+	padding: 0;
+	margin: 0;
+
+}
+
+h1{
+	color: #f7ecc3;
+	text-align: center;
+	font-family: 'lobster', cursive;
+	font-size:50pt;
+	margin:0;
+	padding: 0;
+	height: 250px;
+	padding-top:5%;
+	text-shadow: 5px 5px black;
+}
+
+h6{
+	background-color: black;
+}
+
+h3{
+	color :#f7ecc3;
+	text-align: center;
+	font-family: 'Supermercado One', cursive; 
+	font-size:25pt;
+	margin:0;
+	height:50px;
+	text-shadow: 1px 1px black;
+
+}
+h4{
+	color :#828282;
+	text-align: center;
+	font-family: 'Supermercado One', cursive; 
+	font-size:25pt;
+	text-shadow: 1px 1px black;
+}
+
+p{
+	color: #f7ecc3;
+	test-align: center;
+	font-family: 'Supermercado One', cursive;
+	font-size:15pt;
+	padding-left:35%;
+	padding-right: 35%;
+	text-shadow: 1px 1px black;
+}
+
+h2{
+	color:#828282;
+	test-align:center;
+	font-family: 'lobster', cursive;
+	font-size:19pt;
+	padding-left:35%;
+	padding-right: 35%;
+	text-shadow: 1px 1px black;
+}
+
+#TopPic{
+	text-align:center;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
